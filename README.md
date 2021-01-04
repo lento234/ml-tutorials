@@ -1,8 +1,8 @@
 <div align="center">
   
-  # ML Tutorials
+# ML Tutorials
 
-    **A collection of machine learning tutorials with PyTorch / PyTorch-lightning**
+**A collection of machine learning tutorials with PyTorch / PyTorch-lightning**
 
 </div>
 
