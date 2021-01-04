@@ -1,9 +1,10 @@
-<p align="center">
-# ML tutorials
+<div align="center">
+  
+  # ML Tutorials
+
+</div>
 
 [![CC BY 4.0][cc-by-image]][cc-by]
-
-</p>
 
 ## Description
 
