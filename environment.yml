@@ -1,0 +1,16 @@
+channels:
+  - pytorch
+  - conda-forge
+name: ml-tutorials
+dependencies:
+  - conda
+  - cudatoolkit=10.2
+  - jupyterlab
+  - matplotlib=3.3
+  - numpy=1.19
+  - pip
+  - python=3.8
+  - pytorch=1.7
+  - pytorch-lightning=1.1.2
+  - torchvision=0.8
+  - tqdm
