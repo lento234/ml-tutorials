@@ -4,7 +4,7 @@
 
 **A collection of machine learning tutorials with PyTorch / PyTorch-lightning**
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/01-basics/linear_regression.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/index.ipynb)
 </div>
 
 [![CC BY 4.0][cc-by-image]][cc-by]
