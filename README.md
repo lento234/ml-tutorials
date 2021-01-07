@@ -9,6 +9,17 @@
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
+## Table of Contents
+
+### 1. Basics
+
+- [Linear regression](01-basics/linear_regression.ipynb)
+- [CIFAR10](01-basics/CIFAR10.ipynb)
+- [MNIST](01-basics/mnist.ipynb) (*TODO*)
+- [MNIST: pytorch-lightning](01-basics/mnist_pytorch_lightning.ipynb) (*TODO*)
+
+### 2. Advanced
+
 ## References
 
 ### Web 
@@ -16,6 +27,7 @@
 1. [PyTorch](https://pytorch.org): PyTorch is an open source machine learning library with functionality similar to NumPy with strong acceleration via graphics processing units (GPU).
 2. [PyTorch Lightning](https://www.pytorchlightning.ai): PyTorch Lightning is an open-source Python library that provides a high-level interface for PyTorch.
 3. [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): A collection of PyTorch references, literature, tutorials.
+4. [PyTorch on Google TPU](https://github.com/pytorch/xla): Github examples for PyTorch on Google TPU
 
 ### Books
 
