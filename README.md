@@ -15,8 +15,7 @@
 
 - [Linear regression](01-basics/linear_regression.ipynb)
 - [CIFAR10](01-basics/CIFAR10.ipynb)
-- [MNIST](01-basics/mnist.ipynb) (*TODO*)
-- [MNIST: pytorch-lightning](01-basics/mnist_pytorch_lightning.ipynb) (*TODO*)
+- [CIFAR10: pytorch-lightning](01-basics/CIFAR10_pytorch_lightning.ipynb) (*TODO*)
 
 ### 2. Advanced
 
