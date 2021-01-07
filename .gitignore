@@ -5,6 +5,7 @@ __pycache__/
 
 # ML files
 data/
+lightning_logs/
 *.ckpt
 
 # C extensions
