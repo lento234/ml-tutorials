@@ -8,13 +8,15 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 </div>
 
+[![CC BY 4.0][cc-by-image]][cc-by]
+
 ## Table of Contents
 
 ### 1. Basics
 
 - [Linear regression](01-basics/linear_regression.ipynb)
-- [CIFAR10](01-basics/CIFAR10.ipynb)
-- [CIFAR10: pytorch-lightning](01-basics/CIFAR10_pytorch_lightning.ipynb) (*TODO*)
+- [Image classification: CIFAR10](01-basics/CIFAR10.ipynb)
+- [Image classification: CIFAR10 (**pytorch-lightning**)](01-basics/CIFAR10_pytorch_lightning.ipynb) (*TODO*)
 
 ### 2. Advanced
 
