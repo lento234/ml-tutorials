@@ -15,9 +15,9 @@
 
 ### 1. Basics
 
-- [Linear regression](01-basics/linear_regression.ipynb)
-- [Image classification: CIFAR10](01-basics/CIFAR10.ipynb)
-- [Image classification: CIFAR10 (**pytorch-lightning**)](01-basics/CIFAR10_pl.ipynb) (*work-in-progress*)
+- [Linear regression](01-basics/linear_regression.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/01-basics/linear_regression.ipynb)
+- [Image classification: CIFAR10](01-basics/CIFAR10.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/01-basics/CIFAR10.ipynb)
+- [Image classification: CIFAR10 (**pytorch-lightning**)](01-basics/CIFAR10_pl.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/01-basics/CIFAR10_pl.ipynb) (*work-in-progress*)
 
 ### 2. Advanced
 
