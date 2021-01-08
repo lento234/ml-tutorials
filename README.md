@@ -21,6 +21,21 @@
 
 ### 2. Advanced
 
+## Local installation
+
+1. Create the python environment using **conda**:
+
+    ```bash
+    conda env create -f environment.yml
+    ```
+
+2. Activate and start **jupyter lab**
+
+    ```bash
+    conda activate ml-tutorials
+    jupyter lab
+    ```
+
 ## References
 
 ### Web 
