@@ -23,7 +23,7 @@
 
 ## Local installation
 
-1. Create the python environment using **conda**:
+1. Create the python [environment](environment.yml) using **conda**:
 
     ```bash
     conda env create -f environment.yml
