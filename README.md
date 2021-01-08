@@ -8,7 +8,12 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 </div>
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+<div align="center">
+    <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" alt="pytorch" height="300"/>
+    <img src="https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/master/docs/source/_images/logos/lightning_logo-name.png" alt="pl" height="300"/>
+</div>
+
+![](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png =300x)
 
 ## Table of Contents
 
