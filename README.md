@@ -1,19 +1,16 @@
 <div align="center">
-  
+
 # ML Tutorials
 
 **A collection of machine learning tutorials with PyTorch / PyTorch-lightning**
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/index.ipynb)
 [![CC BY 4.0][cc-by-shield]][cc-by]
-</div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" alt="pytorch" height="300"/>
-    <img src="https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/master/docs/source/_images/logos/lightning_logo-name.png" alt="pl" height="300"/>
-</div>
+<img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" alt="PyTorch" width="300"/>
+<img src="https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/master/docs/source/_images/logos/lightning_logo-name.png" alt="PyTorch-lightning" width="300"/>
 
-![](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png =300x)
+</div>
 
 ## Table of Contents
 
