@@ -43,7 +43,8 @@
 1. [PyTorch](https://pytorch.org): PyTorch is an open source machine learning library with functionality similar to NumPy with strong acceleration via graphics processing units (GPU).
 2. [PyTorch Lightning](https://www.pytorchlightning.ai): PyTorch Lightning is an open-source Python library that provides a high-level interface for PyTorch.
 3. [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): A collection of PyTorch references, literature, tutorials.
-4. [PyTorch on Google TPU](https://github.com/pytorch/xla): Github examples for PyTorch on Google TPU
+4. [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch): A curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible PyTorch.
+5. [PyTorch on Google TPU](https://github.com/pytorch/xla): Github examples for PyTorch on Google TPU.
 
 ### Books
 
