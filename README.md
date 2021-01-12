@@ -20,20 +20,28 @@
 - [Image classification: CIFAR10 (**pytorch-lightning**)](01-basics/CIFAR10_pl.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/01-basics/CIFAR10_pl.ipynb) (*work-in-progress*)
 
 ### 2. Advanced
+- [Image segmentation: U-Net architecture and PASCAL VOC dataset](02-advanced/UNet.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/02-advanced/UNet.ipynb)
 
 ## Local installation
 
-1. Create the python [environment](environment.yml) using **conda**:
+1. Download the github project locally:
 
     ```bash
-    conda env create -f environment.yml
+    $ git clone https://github.com/lento234/ml-tutorials.git
+    $ cd ml-tutorials
+    ```
+    
+2. Setup the [python environment](environment.yml) using [conda](https://docs.conda.io/en/latest/miniconda.html):
+
+    ```bash
+    $ conda env create -f environment.yml
+    $ conda activate ml-tutorials
     ```
 
-2. Activate and start **jupyter lab**
+3. Start [jupyterlab](https://jupyterlab.readthedocs.io/en/stable/) and run the notebooks:
 
     ```bash
-    conda activate ml-tutorials
-    jupyter lab
+    $ jupyter lab
     ```
 
 ## References
