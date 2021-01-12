@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.vscode/
+
 # ML files
 data/
 lightning_logs/
