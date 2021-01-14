@@ -6,8 +6,12 @@
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/index.ipynb)
 [![CC BY 4.0][cc-by-shield]][cc-by]
-<img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" alt="PyTorch" height="15"/>
-<img src="https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/master/docs/source/_images/logos/lightning_logo-name.png" alt="PyTorch-lightning" height="20"/>
+<a href="https://pytorch.org/">
+    <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" alt="PyTorch" height="15"/>
+</a>
+<a href="https://www.pytorchlightning.ai">
+    <img src="https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/master/docs/source/_images/logos/lightning_logo-name.png" alt="PyTorch-lightning" height="20"/>
+</a>
 
 </div>
 
@@ -21,7 +25,7 @@
 
 ### 2. Advanced
 
-- [Image segmentation: Pre-trained network and PASCAL VOC dataset](02-advanced/image_segmentation.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/02-advanced/image_segmentation.ipynb)
+- [Image segmentation: PASCAL VOC dataset](02-advanced/image_segmentation.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/02-advanced/image_segmentation.ipynb)
 
 ## Local installation
 
