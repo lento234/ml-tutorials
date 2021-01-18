@@ -19,13 +19,15 @@
 
 ### 1. Basics
 
-- [Linear regression](01-basics/linear_regression.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/01-basics/linear_regression.ipynb) 
-- [Image classification: CIFAR10](01-basics/CIFAR10.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/01-basics/CIFAR10.ipynb)
-- [Image classification: CIFAR10 (**pytorch-lightning**)](01-basics/CIFAR10_pl.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/01-basics/CIFAR10_pl.ipynb)
+- [Linear regression](01-basics/01-linear_regression.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/01-basics/01-linear_regression.ipynb) 
+- [Image classification: CIFAR10](01-basics/02-CIFAR10.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/01-basics/02-CIFAR10.ipynb)
+- [Image classification: CIFAR10 (**pytorch-lightning**)](01-basics/03-CIFAR10_pl.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/01-basics/03-CIFAR10_pl.ipynb)
 
 ### 2. Advanced
 
 - [Image segmentation: PASCAL VOC dataset](02-advanced/image_segmentation.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/02-advanced/image_segmentation.ipynb)
+- [Basic GAN](02-advanced/basic_gan.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/02-advanced/basic_gan.ipynb)
+- [TPU Training: MNIST](02-advanced/tpu_training_mnist.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lento234/ml-tutorials/blob/main/02-advanced/tpu_training_mnist.ipynb)
 
 ## Local installation
 
