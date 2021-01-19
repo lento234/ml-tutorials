@@ -61,6 +61,7 @@
 4. [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch): A curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible PyTorch.
 5. [PyTorch on Google TPU](https://github.com/pytorch/xla): Github examples for PyTorch on Google TPU.
 6. [PyTorch for Numpy users](https://github.com/wkentaro/pytorch-for-numpy-users): PyTorch and NumPy API comparison.
+7. [PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html)
 
 ### Books
 
