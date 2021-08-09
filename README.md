@@ -10,7 +10,7 @@
     <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" alt="PyTorch" height="15"/>
 </a>
 <a href="https://www.pytorchlightning.ai">
-    <img src="https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/master/docs/source/_images/logos/lightning_logo-name.png" alt="PyTorch-lightning" height="20"/>
+    <img src="https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/master/docs/source/_static/images/logo.png" alt="PyTorch-lightning" height="20"/>
 </a>
 
 </div>
